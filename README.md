@@ -13,7 +13,6 @@ A responsive and modern clone of the Nike website, built using React and Vite. T
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [ESLint](https://eslint.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## 📂 Project Structure
@@ -25,7 +24,7 @@ Nike-Clone/
 │   ├── components/
 │   ├── assets/
 │   ├── App.jsx
-│   └── main.jsx
+│   ├── sections/
 ├── .gitignore
 ├── index.html
 ├── package.json
